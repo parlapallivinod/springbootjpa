@@ -1,0 +1,10 @@
+2022-04-15 16:42:52,257 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.2 on r081247 with PID 9797 (/home/vinod/Desktop/projects/coding/lld/springbootjpa/target/classes started by vinod in /home/vinod/Desktop/projects/coding/lld/springbootjpa)
+2022-04-15 16:42:52,263 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-15 16:42:52,266 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-15 16:50:41,923 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.2 on r081247 with PID 9939 (/home/vinod/Desktop/projects/coding/lld/springbootjpa/target/classes started by vinod in /home/vinod/Desktop/projects/coding/lld/springbootjpa)
+2022-04-15 16:50:41,927 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-15 16:50:41,929 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-15 16:52:40,482 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.2 on r081247 with PID 10079 (/home/vinod/Desktop/projects/coding/lld/springbootjpa/target/classes started by vinod in /home/vinod/Desktop/projects/coding/lld/springbootjpa)
+2022-04-15 16:52:40,488 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-15 16:52:40,490 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-15 16:52:46,996 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 7.23 seconds (JVM running for 7.92)
